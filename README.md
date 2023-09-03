@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hey what's up ✌🏻
+## About me
+- I love to lift 💪🏼
+- I like to watch football and basketball 🏈
+- Listening to music is my favourite thing to do while I'm bored 🎶
+
+## Goals in college
+- I'm planning on transfering to Penn State to complete my degree in Computer Science
+- I want to become my own busniness and big program owner one day
+  
+
 
 <!--
 **aidxxn/aidxxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
